@@ -2,7 +2,7 @@
 id: DO_RXSlAbwNwbz-ILKoQa
 title: Taking Notes
 desc: ""
-updated: 1624934082241
+updated: 1650136000437
 created: 1624333266168
 ---
 
@@ -63,3 +63,4 @@ If you want to search for content within the notes, you can use VS Code's built-
 ---
 
 [[Tutorial Home Page| tutorial]]
+asdfasddfsaf
